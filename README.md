@@ -43,7 +43,7 @@ pip install torch torchvision matplotlib numpy jupyter
 1. Clone the repository:
 
    ```bash
-   git clone [repository-url](https://github.com/saeidKhoobdell/PyTorch-Autoencoders-using-the-Fashion-MNIST-Dataset.git)
+   git clone (https://github.com/saeidKhoobdell/PyTorch-Autoencoders-using-the-Fashion-MNIST-Dataset.git
    
    ```
 
