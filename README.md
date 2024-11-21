@@ -36,27 +36,6 @@ You can install the dependencies using:
 pip install torch torchvision matplotlib numpy jupyter
 ```
 
----
-
-## How to Run
-
-1. Clone the repository:
-
-   ```bash
-   git clone <repository-url>
-   cd <repository-folder>
-   ```
-
-2. Open the Jupyter Notebook:
-
-   ```bash
-   jupyter notebook autoencodersPytorch.ipynb
-   ```
-
-3. Run the cells in sequence to train the autoencoder on the Fashion MNIST dataset.
-
----
-
 ## Results
 
 The model learns to compress the images into a latent space and reconstructs them with minimal loss of information. Check the notebook for visualizations of input vs. reconstructed images.
